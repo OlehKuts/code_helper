@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/code_helper/static/css/main.c53cb951.css",
+    "main.js": "/code_helper/static/js/main.7ae4378b.js",
+    "index.html": "/code_helper/index.html",
+    "main.c53cb951.css.map": "/code_helper/static/css/main.c53cb951.css.map",
+    "main.7ae4378b.js.map": "/code_helper/static/js/main.7ae4378b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c53cb951.css",
+    "static/js/main.7ae4378b.js"
+  ]
+}
