@@ -282,14 +282,14 @@ const diagnosisMaxilloSurgeryList = [
     name: "Радикулярна кіста",
     code: "K04.8",
     codeIcpc: "D82",
-    codeAkmi: "37008-01",
+    codeAkmi: "30283-00",
     opName: "Цистектомія"
   },
   {
     name: "Фолікулярна кіста",
     code: "K09.0",
     codeIcpc: "D82",
-    codeAkmi: "37008-01",
+    codeAkmi: "30283-00",
     opName: "Цистектомія"
   },
   {
@@ -322,10 +322,10 @@ const diagnosisMaxilloSurgeryList = [
   },
   {
     name: "Серединна кіста шиї",
-    code: "Q18.0",
+    code: "Q89.23",
     codeIcpc: "D81",
-    codeAkmi: "30286-00",
-    opName: "Висічення кісти"
+    codeAkmi: "30313-00",
+    opName: "Видалення кісти"
   },
   {
     name: "Постекстракційна кровотеча",
