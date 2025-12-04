@@ -248,6 +248,13 @@ const diagnosisMaxilloSurgeryList = [
     opName: "Репозиція",
     opAddName: "Шинування"
   },
+   {
+    name: "П-м вилично-орбітального комплексу",
+    code: "S02.4",
+    codeIcpc: "L76",
+    codeAkmi: "47762-00",
+    opName: "Відкрита репозиція (МОС)",
+  },
   {
     name: "Множинні п-ми кісток черепа",
     code: "S02.7",
